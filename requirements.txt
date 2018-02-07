@@ -1,0 +1,5 @@
+requests==2.18.4
+web.py==0.40.dev0
+beautifulsoup4==4.6.0
+indicoio==1.1.1
+web==0.6.0

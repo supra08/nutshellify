@@ -1,0 +1,34 @@
+*
+{
+	overflow-x: hidden;
+	box-sizing: border-box;
+	padding-bottom:10vh;
+}
+
+.summ-content
+{
+	padding-top: 10vh;
+	text-align: center;
+}
+
+.notes-area
+{
+	height: 80vh;
+	border: 1px solid black;
+	border-radius: 5%;
+	padding: 4vh;
+}
+
+.summary
+{
+	height: 80vh;
+	border: 1px solid black;
+	border-radius: 5%;
+}
+
+.diction
+{
+	height: 20vh;
+	border: 1px solid black;
+	font-weight: bold;
+}
